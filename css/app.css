@@ -23,8 +23,5 @@ img {
 
 .navigation-links a {
   padding: 0 12px;
-}
-
-.navigation-links a:visited {
   color: green;
 }
